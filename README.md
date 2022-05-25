@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @genesis-ashish
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently learning genesis platform
+        - Ashish
+        - Ashish Tyagi
+        - Tyagi
+        - @ashishtyagi10
+- 👀 I’m interested in followings
+        - cooking
+        - working out
+        - listen to music
+        - watching movies
+        - coding  
+- 🌱 I’m currently learning genesis platform and leading several projects
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ashish.tyagi@genesis.global
 
